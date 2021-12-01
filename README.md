@@ -13,6 +13,7 @@
 A little about me:
 
 - 🇨🇦  **Munich, Germany**.
+-  📚  Masters in **IT-Management** | **DevOps Engineer -iTechFinance**
 - 🔭  I’m currently working with **Ansible**, **Docker** and **AWS**.
 - 🌱  I’m currently learning everything related to **DevOps** and **automation**.
 - 📚  Self-taught
