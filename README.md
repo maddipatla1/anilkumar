@@ -1,10 +1,10 @@
-# anilkumar
+# Anil Kumar
 
 <h1 align="center"> 
 	✅ Welcome to my GitHub 🚀
 </h1>
 
-### Hi there 👋
+### Hi Everyone  👋
 
 <!--
 **maddipatla1/anilkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
