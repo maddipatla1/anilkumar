@@ -10,7 +10,7 @@
 **maddipatla1/anilkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-A little about me:
+A little about me: An extremely dedicated individual with 2+ years experience in Automation build and deployments, managing software releases and environments.
 
 - 🇨🇦  **Munich, Germany**.
 -  📚  Masters in **IT-Management** | **DevOps Engineer -iTechFinance**
